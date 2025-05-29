@@ -1,0 +1,6 @@
+nexus_quantum_5.0/
+│
+├── nexus_quantum.py      # El código principal
+├── requirements.txt      # Dependencias necesarias
+├── README.md             # Documentación del proyecto
+└── data/                 # Carpeta para datos (si es necesario)
